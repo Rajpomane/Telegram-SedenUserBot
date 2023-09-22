@@ -66,3 +66,14 @@ Please go to our [GitHub.io](https://teamderuntergang.github.io/installation.htm
 
 ## License
 This project is licensed under the [AGPL-3](https://www.gnu.org/licenses/agpl-3.0.html).
+
+
+<p align="center">
+<b>𝗗𝗘𝗣𝗟𝗢𝗬𝗠𝗘𝗡𝗧 𝗠𝗘𝗧𝗛𝗢𝗗𝗦</b>
+</p>
+
+<h3 align="center">
+    ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
+</h3>
+
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/Rajpomane/ Telegram-SedenUserBot"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
